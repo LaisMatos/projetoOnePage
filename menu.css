@@ -1,0 +1,66 @@
+.texto-principal{
+   display: flex;
+   margin-top: auto;
+    justify-content: space-between; 
+    align-items: center;
+     width: 95vw;
+    padding-right: 130px ;
+    color: white;
+    
+    
+}
+
+
+.texto-principal.nada{
+    display: none;
+}
+
+.texto-principal a{
+    display: flex;
+    margin-top: 5px;
+    width: 90px;
+    height: 70px;
+    padding-left: 60px;
+    
+}
+
+.texto-principal h2{
+    display: flex;
+width: 345px;
+height: 60px;
+padding-left: 60px;
+top: 120px;
+font-style: normal;
+font-weight: 800;
+font-size: 25px;
+
+
+    
+}
+.texto-principal h1{
+    display: flex;
+    font-style: normal;
+font-weight: 800;
+font-size: 25px;
+}
+.dropdow-menu a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dropdow-menu li{
+    
+    width: 100px;
+}
+
+.dropdow-menu{
+    display: flex;
+    padding-right: 200px;
+    gap: 30px;
+}
+
+.dropdow-menu a:hover{
+    background-color: black;
+    color: blanchedalmond;
+}

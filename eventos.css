@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Da+2:wght@500&family=Roboto:ital,wght@0,100;1,100&display=swap');
+
+
+.sessao2{
+    margin-top: 0px;
+    color: white;
+    gap: 30px;
+    font-size: 1.5rem;
+  
+}
+
+.eventos{
+    height: 100%;
+    }
+
+
+    .eventos1{
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      
+      font-size: 1.5rem;
+      
+        gap: 400px;
+    }
+    
+    .eventos2{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 400px;
+        font-size: 1.5rem;
+      
+      
+    }
+    
+    .eventos3{
+    
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        gap: 400px;
+        font-size: 1.5rem;
+        
+      
+    }
+
+    .sobre {
+        display: flex;
+        align-items: center;
+        gap: 400px;
+    }
+    .sobre h1{
+        display: flex;
+        margin-right: auto;
+        font-family: 'Baloo Da 2', cursive;
+        color: #F6EDD9;
+               
+    }
+                      
+     .sobre p{
+        display: flex;
+        text-align: justify;
+        font-family: 'Baloo Da 2', cursive;
+        color: #F6EDD9;
+        margin-left: auto;
+        margin-right: auto;
+        width: 23em
+      
+    }
+   

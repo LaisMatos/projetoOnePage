@@ -1,0 +1,63 @@
+.sessao1{
+    margin-top: 0px;
+    color: white;
+    gap: 30px;
+    font-size: 1.5rem;
+}
+
+
+.agenda{
+    
+    height: 80%;
+    }
+
+    /*.agenda p{
+        /*position: absolute;*/
+    
+
+
+
+    .agenda1{
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      
+      font-size: 1.5rem;
+        
+        gap: 400px;
+    }
+    
+    .agenda2{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 400px;
+        font-size: 1.5rem;
+         
+      
+    }
+    
+    .agenda3{
+    
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        gap: 400px;
+        font-size: 1.5rem;
+          
+      
+    }
+    
+    .agenda4{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 400px;
+        font-size: 1.5rem;
+         
+      
+    
+    }
+    
+
+
